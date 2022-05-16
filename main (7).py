@@ -6,6 +6,7 @@ C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, S
 Code, Compile, Run and Debug online from anywhere in world.
 
 '''
+#check given nunber is positive,negative,zero.
 def NumberCheck(a):   
     # Checking if the number is positive  
     if a > 0:   
